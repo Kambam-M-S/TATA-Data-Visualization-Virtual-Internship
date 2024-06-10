@@ -1,0 +1,13 @@
+CEO Prespective questions
+
+What is the total revenue generated over the past year, and which months saw the highest and lowest sales?
+Who are our top customers based on purchase volume and revenue, and what patterns can we identify in their purchasing behavior?
+Which products (stock codes) are our bestsellers, and which ones have the lowest sales? What are the contributing factors to these trends?
+How do sales compare across different countries, and which regions are driving the most growth or facing the most challenges?
+
+CMO Prespective Questions
+
+How have recent marketing campaigns impacted sales of specific products (stock codes) or categories, and what ROI have we seen from these campaigns?
+What are the acquisition and retention rates of our customers, and how do they vary by region or product category?
+What are the most popular products (stock codes) among different customer segments, and how have customer preferences shifted over time?
+Which promotions or discounts have been most effective in driving sales, and how can we optimize our future promotional strategies?
